@@ -1,0 +1,5 @@
+"SourceEntityPath";"SourceEntityType";"EntityLinkType";"LinkedEntityPath";"LinkedEntityType"
+"\Fabric Production ETL\EPL_AbilityOnePrograms";"\Data Flow\Data Processing";"IsLinkedTo";"\Fabric Production ETL\PL_LNZ_AbilityOnePrograms";"\Data Flow\Data Processing"
+"\Fabric Production ETL\EPL_AbilityOnePrograms";"\Data Flow\Data Processing";"IsLinkedTo";"\Fabric Production ETL\PL_BRZ_AbilityOnePrograms";"\Data Flow\Data Processing"
+"\Fabric Production ETL\EPL_AbilityOnePrograms";"\Data Flow\Data Processing";"IsLinkedTo";"\Fabric Production ETL\PL_SLR_AbilityOnePrograms";"\Data Flow\Data Processing"
+"\Fabric Production ETL\EPL_AbilityOnePrograms";"\Data Flow\Data Processing";"IsLinkedTo";"\Fabric Production ETL\PL_GLD_AbilityOnePrograms";"\Data Flow\Data Processing"
